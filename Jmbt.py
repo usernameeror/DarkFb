@@ -52,8 +52,8 @@ def yayanxd():
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
 def moch_yayan():
     time.sleep(0.1)
-    print("\033[97m [\033[96m01\033[97m] Start  Crack")
-    print("\033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies")
+    print("\033[97m [\033[96m01\033[97m] Start Crack")
+    print("\033[97m [\033[96m02\033[97m] Tutor How to Get Fb Cookies")
     print("\033[97m [\033[96m05\033[97m] Update Tools")
     print("\033[97m [\033[91m00\033[97m] Exit")
     print("\x1b[1;94m────────────────────────────────────────────────────")
