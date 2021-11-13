@@ -53,8 +53,7 @@ def yayanxd():
 def moch_yayan():
     time.sleep(0.1)
     print("\033[97m [\033[96m01\033[97m] Start Crack")
-    print("\033[97m [\033[96m02\033[97m] Cara Mengambil Cookie Fb")
-    print("\033[97m [\033[96m05\033[97m] Update Script")
+    print("\033[97m [\033[96m02\033[97m] Tutorial Mengambil Cookie Fb")
     print("\033[97m [\033[91m00\033[97m] Keluar (Ahh Ngecrot)")
     print("\x1b[1;94m────────────────────────────────────────────────────")
     time.sleep(0.1)
