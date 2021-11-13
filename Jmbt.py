@@ -27,8 +27,8 @@ def kontol():
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Author   : Aang Ardiansyah-XD
-\x1b[1;97m [\x1b[1;92m•\x1b[1;94m\x1b[1;97m] Github   : https://github.com/AngCyber
-\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/Saya Aang
+\x1b[1;97m [\x1b[1;92m•\x1b[1;94m\x1b[1;97m] Github   : Github.com/AngCyber
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Facebook : Facebook.com/Saya Aang
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def jembut():
@@ -40,8 +40,8 @@ def jembut():
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Author   : Aang Ardiansyah-XD
-\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Github   : https://github.com/AngCyber
-\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/Saya Aang
+\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Github   : Github.com/AngCyber
+\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Facebook : Facebook.com/Saya Aang
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def yayanxd():
