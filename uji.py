@@ -132,7 +132,7 @@ def publik(romz,headers=header):
         raw_input('\n%s [ %Enter %s] '%(P,K,P))
         menu()
     except Exception as e:
-        exit('\n %s[!] gagal dump id tod'%(P))
+        exit('\n %s[!] dump selesai kentod!!'%(P))
 # DUMP FOLLOWERS
 def followers(romz,headers=header):
     try:
@@ -159,7 +159,7 @@ def followers(romz,headers=header):
         raw_input('\n%s [ %sEnter %s] '%(P,K,P))
         menu()
     except Exception as e:
-        exit('\n %s[!] gagal dump id tod'%(P))
+        exit('\n %s[!] dump selesai kentod!!'%(P))
 # DUMP POSTINGAN 
 def postingan(romz,headers=header):
     try:
@@ -185,7 +185,7 @@ def postingan(romz,headers=header):
         raw_input('\n%s [ %senter %s] '%(P,K,P))
         menu()
     except Exception as e:
-        exit('\n %s[!] gagal dump id tod'%(P))
+        exit('\n %s[!] dump selesai kentod!!'%(P))
 # START CRACK
 class ngentod:
 
