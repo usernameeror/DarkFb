@@ -5,8 +5,8 @@ import requests, re, os, time
 
 banner=(
 """ 
-\x1b[0;97m───▄▄─▄████▄▐▄▄▄▌ ● Author   :Aang Ardiansyah-XD
-──▐──████▀███▄█▄▌ ● Github   :Gthub.com/AngCyber
+\x1b[0;97m───▄▄─▄████▄▐▄▄▄▌ ● Author   : Aang Ardiansyah-XD
+──▐──████▀███▄█▄▌ ● Github   : Gthub.com/AngCyber
 ▐─▌──█▀▌──▐▀▌▀█▀  ● Facebook : Facebook.com/clubfunbike
 ─▀───▌─▌──▐─▌
 ─────█─█──▐▌█
