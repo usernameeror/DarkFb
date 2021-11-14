@@ -1027,10 +1027,8 @@ if __name__=="__main__":
 		logo()
 		print("\n[*] Cara Mendapatkan Cookie : https://youtu.be/jfcC99dkEAo\n[*] Ketik OPEN Untuk Membuka Video\n")
 		while True:
-	    os.system("clear")
-        banner()
-        cookie = input(k+"\n["+p+"?"+k+"]"+p+" Cookies nya ngab : ")
-        try:
+			cookie = input(k+"\n["+p+"?"+k+"]"+p+" Cookies nya ngab : ")
+			try:
                 data = requests.get("https://m.facebook.com/composer/ocelot/async_loader/?publisher=feed#_=_", headers = {
                 "user-agent"                : "Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36", # Jangan Di Ganti Ea Anjink.
                 "referer"                   : "https://m.facebook.com/",
