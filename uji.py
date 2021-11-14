@@ -61,13 +61,13 @@ def folder():
 IP = requests.get("https://api.ipify.org/").text
 def banner():
 	print (''' %s 
- [#] (YNTKTS) Yo Ndak Tau Kok Tanya Saia:v%s \n __________       _____.__  \n \____    /____ _/ ____\__| %s|•|%sZona \n   /     /\\__  \\\   __\|  | %s|•|%sAkun \n  /     /_ / __ \|  |  |  | %s|•|%s Facebook (Meta) \n /_______ (____  /__|  |__| %s|•|%s Indonesia \n         \/    \/ \n %s[%s•%s] Created by : %sAang Ardiansyah-XD \n %s[%s•%s] -------------------------------------- \n [%s•%s] IP Kamu  : [%s%s]'''%
+ (YNTKTS) Yo Ndak Tau Kok Tanya Saia:v%s \n __________       _____.__  \n \____    /____ _/ ____\__| %s|•|%sZona \n   /     /\\__  \\\   __\|  | %s|•|%sAkun \n  /     /_ / __ \|  |  |  | %s|•|%sFacebook (Meta) \n /_______ (____  /__|  |__| %s|•|%sIndonesia \n         \/    \/ \n %s[%s•%s] Created by : %sAang Ardiansyah-XD \n %s[%s•%s] -------------------------------------- \n [%s•%s] IP Kamu  : [%s%s]'''%
  (H,K,H,K,H,K,H,K,H,K,P,K,P,H,P,K,P,K,P,H,IP))
 # MASUK TOKEN (TOKEN LISTRIK)
 header = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": "NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+ ;]", "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
 def masuk():
     os.system('clear');banner()
-    print ('\n%s [01] Login pakai token \n [02] Cara mendapatkan token \n [%s00%s] Keluar'%(P,M,P))
+    print ('\n%s [01] Login pakai token \n [02] Cara mendapatkan token \n [%s00%s] Keluar (Ahh Ngecrot)'%(P,M,P))
     rom = raw_input('\n%s [?] Menu : %s'%(P,K))
     if rom in(""):
     	print("%s [!] Isi yang benar kentod "%(M));exit()
@@ -99,9 +99,9 @@ def masuk():
         if nanya in(""):
         	print ("%s [!] saya bertanya wajib di jawab "%(M));jeda(2);masuk()
         elif nanya in("y","Y"):
-        	print ("\n%s [✓] SELAMAT ANDA SUNGGUH PINTAR!! :* "%(H));jeda(2);masuk()
+        	print ("\n%s [✓] SELAMAT ANDA SANGAT PINTAR!! :* "%(H));jeda(2);masuk()
         elif nanya in("n","N"):
-        	print ("\n%s [!] ANDA SUNGGUH TOLOL, GOBLOK DAN NGENTOD!! "%(M));jeda(2);os.system("xdg-open https://youtu.be/iDVCcnLcTnE");masuk()
+        	print ("\n%s [!] ANDA SANGAT TOLOL, GOBLOK DAN NGENTOD!! "%(M));jeda(2);os.system("xdg-open https://youtu.be/iDVCcnLcTnE");masuk()
     elif rom in ('0', '00'):
     	exit('\n')
     else:
