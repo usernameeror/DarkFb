@@ -663,7 +663,7 @@ class __crack__:
 
     def __api__(self, user, __yan__):
         global ok,cp,loop
-        sys.stdout.write('\r{Crack}{%s/%s}{OK:%s}{CP:%s} '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
@@ -714,7 +714,7 @@ class __crack__:
         
     def __web__(self, user, __yan__):
         global ok,cp,loop
-        sys.stdout.write('\r{Crack}{%s/%s}{OK:%s}{CP:%s} '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
@@ -765,7 +765,7 @@ class __crack__:
 
     def __mbasic__(self, user, __yan__):
         global ok,cp,loop
-       sys.stdout.write('\r{Crack}{%s/%s}{OK:%s}{CP:%s} '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
@@ -816,7 +816,7 @@ class __crack__:
 
     def __mfb__(self, user, __yan__):
         global ok,cp,loop
-        sys.stdout.write('\r{Crack}{%s/%s}{OK:%s}{CP:%s} '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
