@@ -150,25 +150,25 @@ def moch_yayan():
     os.system('clear')
     print logo
     IP = requests.get("https://api.ipify.org").text
-    print '___________________________________________________________\n';time.sleep(0.05)
-    print '\033[0;96m╔═[\033[0;97m NAMA KAMU : %s'%(nama);time.sleep(0.05)
-    print '\033[0;96m╚═[\033[0;97m IP KAMU   : %s'%(IP);time.sleep(0.05)
-    print '___________________________________________________________\n';time.sleep(0.05)
-    print '%s╔═[%s Author  : \033[0;97mAang Ardiansyah-XD'%(O,N);time.sleep(0.05)
-    print '%s╠═[%s Github  : \033[0;97mGithub.com/AngCyber'%(O,N);time.sleep(0.05)
-    print '%s╚═[%s Team    : \033[0;97mXNX-CODE TEAM'%(O,N); time.sleep(0.05)
-    print '\033[0;97m___________________________________________________________\n';time.sleep(0.05)
-    print '%s╔═[01]%s Dump id \033[0;97mdari teman \033[0;96m[5000 ID]'%(O,N);time.sleep(0.05)
-    print '\033[0;97m%s╠═[02]%s Dump id \033[0;97mdari teman publik \033[0;96m[5000 ID]'%(O,N);time.sleep(0.05)
-    print '\033[0;97m%s╠═[03]%s Dump id \033[0;97mdari total followers \033[0;96m[5000 ID]'%(O,N);time.sleep(0.05)
-    print '\033[0;97m%s╠═[04]%s Dump id \033[0;97mdari like postingan \033[0;96m[5000 ID]'%(O,N);time.sleep(0.05)
-    print '\033[0;97m%s╠═[05]%s Start cracking'%(O,N);time.sleep(0.05)
-    print '%s╠═[06]%s Cek informasi akun fb'%(O,N);time.sleep(0.05)
-    print '%s╠═[07]%s Lihat hasil crack \033[0;97msaya'%(O,N);time.sleep(0.05)
-    print '%s╠═[08]%s Setting user agent'%(O,N);time.sleep(0.05)
-    print '%s╠═[09]%s Informasi %sscript%s'%(O,N,O,N);time.sleep(0.05)
-    print '%s╠═[00]%s Keluar (%sAhh Ngecrot%s)'%(M,N,M,N);time.sleep(0.05)
-    print '%s║%s'%(O,N);time.sleep(0.05)
+    print '___________________________________________________________\n';time.sleep(0.03)
+    print '\033[0;96m╔═[\033[0;97m NAMA KAMU : %s'%(nama);time.sleep(0.03)
+    print '\033[0;96m╚═[\033[0;97m IP KAMU   : %s'%(IP);time.sleep(0.03)
+    print '___________________________________________________________\n';time.sleep(0.03)
+    print '%s╔═[%s Author  : \033[0;97mAang Ardiansyah-XD'%(O,N);time.sleep(0.03)
+    print '%s╠═[%s Github  : \033[0;97mGithub.com/AngCyber'%(O,N);time.sleep(0.03)
+    print '%s╚═[%s Team    : \033[0;97mXNX-CODE TEAM'%(O,N); time.sleep(0.03)
+    print '\033[0;97m___________________________________________________________\n';time.sleep(0.03)
+    print '%s╔═[01]%s Dump id \033[0;97mdari teman \033[0;96m[5000 ID]'%(O,N);time.sleep(0.03)
+    print '\033[0;97m%s╠═[02]%s Dump id \033[0;97mdari teman publik \033[0;96m[5000 ID]'%(O,N);time.sleep(0.03)
+    print '\033[0;97m%s╠═[03]%s Dump id \033[0;97mdari total followers \033[0;96m[5000 ID]'%(O,N);time.sleep(0.03)
+    print '\033[0;97m%s╠═[04]%s Dump id \033[0;97mdari like postingan \033[0;96m[5000 ID]'%(O,N);time.sleep(0.03)
+    print '\033[0;97m%s╠═[05]%s Start cracking'%(O,N);time.sleep(0.03)
+    print '%s╠═[06]%s Cek informasi akun fb'%(O,N);time.sleep(0.03)
+    print '%s╠═[07]%s Lihat hasil crack \033[0;97msaya'%(O,N);time.sleep(0.03)
+    print '%s╠═[08]%s Setting user agent'%(O,N);time.sleep(0.03)
+    print '%s╠═[09]%s Informasi %sscript%s'%(O,N,O,N);time.sleep(0.03)
+    print '%s╠═[00]%s Keluar (%sAhh Ngecrot%s)'%(M,N,M,N);time.sleep(0.03)
+    print '%s║%s'%(O,N);time.sleep(0.03)
     pepek = raw_input('\033[0;96m╚═[••] \033[0;97mmenu : ')
     if pepek == '':
         print '\n %s%s╚═[%s JANGAN KOSONG KENTOD ]'%(N,M,N);time.sleep(0.02);moch_yayan()
@@ -529,7 +529,7 @@ def info_tools():
     print '%s[%s>%s] Author    : Aang Ardiansyah-XD'%(N,H,N);time.sleep(0.09)
     print '%s[%s>%s] Github    : Https://github.com/AngCyber'%(N,H,N);time.sleep(0.09)
     print '%s[%s>%s] Facebook  : Saya Aang & Why Aang Ardiansyah'%(N,H,N);time.sleep(0.09)
-    print '%s[%s>%s] Instagram : my_ardiansyah_xd'%(N,H,N);time.sleep(0.09)
+    print '%s[%s>%s] Instagram : my_aang_xd'%(N,H,N);time.sleep(0.09)
     print '%s[%s#%s]'%(N,O,N), 52 * '\x1b[1;96m-\x1b[0m';time.sleep(0.09)
     raw_input('\n[ %sKEMBALI%s ] '%(O,N));moch_yayan()
 
@@ -670,7 +670,12 @@ class __crack__:
             try:
             	_kontol = open('YNTKTS.txt', 'r').read()
             except (KeyError, IOError):
-            	_kontol = 'Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.56 Mobile Safari/537.36;]'
+            	_kontol = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 8.1.0; HUAWEI Y7 PRIME 2019 Build/5887208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]' 
+                _kontol =​ ​'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
             ses = requests.Session()
             ses.headers.update({"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":_kontol,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
             p = ses.get("https://m.facebook.com")
@@ -721,7 +726,13 @@ class __crack__:
             try:
             	_kontol = open('YNTKTS.txt', 'r').read()
             except (KeyError, IOError):
-            	_kontol = 'Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.56 Mobile Safari/537.36;]'
+            	_kontol = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+                _kontol = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 8.1.0; HUAWEI Y7 PRIME 2019 Build/5887208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]' 
+                _kontol =​ ​'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
             ses = requests.Session()
             ses.headers.update({"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":_kontol,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
             p = ses.get("https://mbasic.facebook.com")
@@ -772,7 +783,13 @@ class __crack__:
             try:
             	_kontol = open('YNTKTS.txt', 'r').read()
             except (KeyError, IOError):
-            	_kontol = 'Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.56 Mobile Safari/537.36;]'
+            	_kontol = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+                _kontol = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 8.1.0; HUAWEI Y7 PRIME 2019 Build/5887208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
+                _kontol =​ ​'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]' 
+                _kontol =​ ​'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]' 
             ses = requests.Session()
             ses.headers.update({"Host":"m.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":_kontol,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
             p = ses.get("https://m.facebook.com")
