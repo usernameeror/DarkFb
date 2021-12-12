@@ -641,7 +641,7 @@ class __crack__:
                             hasil(ok,cp)
                         else:
                             print '\n%s[%s×%s] input yang bener'%(N,M,N);self.__yan__()
-                    print '\n\033[0;96m╔══[ \033[0;97mPilih Metode Untuk Login \033[0;96m]'
+                    print '\n\033[0;96m╔═══[ \033[0;97mPilih Metode Untuk Login \033[0;96m]'
                     print '%s╠═[1]%s Metode api (cepat)'%(O,N)
                     print '%s╠═[2]%s Metode mbasic (lambat)'%(O,N)
                     print '%s╠═[3]%s Metode mobile (sangat lambat)'%(O,N)
@@ -649,7 +649,7 @@ class __crack__:
                     __yan__(pwek.split(','))
                     break
         elif ___yayanganteng___ in ('T', 't'):
-            print '\n\033[0;96m╔══[ \033[0;97mPilih Metode Untuk Login \033[0;96m]'
+            print '\n\033[0;96m╔═══[ \033[0;97mPilih Metode Untuk Login \033[0;96m]'
             print '%s╠═[1]%s Metode api (cepat)'%(O,N)
             print '%s╠═[2]%s Metode mbasic (lambat)'%(O,N)
             print '%s╠═[3]%s Metode mobile (sangat lambat)'%(O,N)
@@ -661,7 +661,7 @@ class __crack__:
 
     def __api__(self, user, __yan__):
         global ok,cp,loop
-        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r%s╚═[%sCrack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
@@ -712,7 +712,7 @@ class __crack__:
 
     def __mbasic__(self, user, __yan__):
         global ok,cp,loop
-        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r%s╚═[%sCrack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
@@ -763,7 +763,7 @@ class __crack__:
 
     def __mfb__(self, user, __yan__):
         global ok,cp,loop
-        sys.stdout.write('\r[Crack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
+        sys.stdout.write('\r%s╚═[%sCrack][%s/%s][OK:%s][CP:%s] '%(O,N,loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
         for pw in __yan__:
             pw = pw.lower()
