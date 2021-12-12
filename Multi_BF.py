@@ -641,20 +641,20 @@ class __crack__:
                             hasil(ok,cp)
                         else:
                             print '\n%s[%s×%s] input yang bener'%(N,M,N);self.__yan__()
-                    print '\n\033[0;96m╔══[•\033[0;96m] \033[0;97mPilih Metode Login \033[0;96m]'
+                    print '\n\033[0;96m╔═══[ \033[0;97mPilih Metode Untuk Login \033[0;96m]'
                     print '%s╠═[1]%s Metode api'%(O,N)
-                    print '%s╠═[2]%s Metode web fb'%(O,N)
+                    print '%s╠═[2]%s Metode web facebook'%(O,N)
                     print '%s╠═[3]%s Metode mbasic '%(O,N)
-                    print '%s╠═[4]%s Metode mobile fb '%(O,N)
+                    print '%s╠═[4]%s Metode mobile fb'%(O,N)
                     print '%s║%s '%(O,N)
                     __yan__(pwek.split(','))
                     break
         elif ___yayanganteng___ in ('T', 't'):
-            print '\n\033[0;96m╔══[•\033[0;96m] \033[0;97mPilih Metode Login \033[0;96m]'
+            print '\n\033[0;96m╔═══[ \033[0;97mPilih Metode Untuk Login \033[0;96m]'
             print '%s╠═[1]%s Metode api'%(O,N)
-            print '%s╠═[2]%s Metode api web fb'%(O,N)
+            print '%s╠═[2]%s Metode web facebook'%(O,N)
             print '%s╠═[3]%s Metode mbasic '%(O,N)
-            print '%s╠═[4]%s Metode mobile fb '%(O,N)
+            print '%s╠═[4]%s Metode mobile fb'%(O,N)
             print '%s║%s '%(O,N)
             self.__pler__()
         else:
