@@ -602,7 +602,7 @@ class __crack__:
                             print '\n %s[%s×%s] jangan kosong kentod'%(N,M,N);self.__yan__()
                         elif cin == '1':
                             print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-                            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+                            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
                             with YayanGanteng(max_workers=30) as (__yayanXD__):
@@ -616,7 +616,7 @@ class __crack__:
                             hasil(ok,cp)
                         elif cin == '2':
                             print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-                            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+                            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
                             with YayanGanteng(max_workers=30) as (__yayanXD__):
@@ -629,7 +629,7 @@ class __crack__:
                             os.remove(self.apk)
                             hasil(ok,cp)
                         elif cin == '3':
-                            print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
+                            print '\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
                             print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
@@ -644,7 +644,7 @@ class __crack__:
                             hasil(ok,cp)
                         elif cin == '4':
                             print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-                            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+                            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
                             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
                             with YayanGanteng(max_workers=30) as (__yayanXD__):
@@ -888,7 +888,7 @@ class __crack__:
             print '\n%s[%s×%s] jangan kosong bro'%(N,M,N);self.__pler__()
         elif yan in ('1', '01'):
             print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
             with YayanGanteng(max_workers=30) as (__yayanXD__):
@@ -908,7 +908,7 @@ class __crack__:
             hasil(ok,cp)
         elif yan in ('2', '02'):
             print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
             with YayanGanteng(max_workers=30) as (__yayanXD__):
@@ -928,7 +928,7 @@ class __crack__:
             hasil(ok,cp)
         elif yan in ('3', '03'):
         	print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
             with YayanGanteng(max_workers=30) as (__yayanXD__):
@@ -948,7 +948,7 @@ class __crack__:
             hasil(ok,cp)
         elif yan in ('4', '04):
         	print '\n\033[0;96m╔═[%s•%s\033[0;96m] \033[0;97m Crack Sedang Berjalan...\n'%s(M,N);time.sleep(0.04)
-            print '\n\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
+            print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun OK saved in > results/OK-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╠═[%s•%s\033[0;96m] \033[0;97makun CP saved in > results/CP-%s-%s-%s.txt'%(O,N,ha, op, ta);time.sleep(0.04)
             print '\033[0;96m╚═[%s!%s\033[0;96m] \033[0;97maktifkan mode pesawat (5 detik) setiap 3 menit\n'%(M,N);time.sleep(0.04)
             with YayanGanteng(max_workers=30) as (__yayanXD__):
